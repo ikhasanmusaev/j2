@@ -20,10 +20,10 @@ Sevimli fan: Informatika
 
 Sevimli mashg'uloti: futbol
 
-## Baholash (5 ball)
+## Baholash (1.5 ball)
 
-Fayl to'g'ri nomlangan — 2 ball
+Fayl to'g'ri nomlangan — 0.5 ball
 
-Ma'lumot to'ldirilgan — 2 ball
+Ma'lumot to'ldirilgan — 0.5 ball
 
-Commit izohi aniq va tushunarli — 1 ball
+Commit izohi aniq va tushunarli — 0.5 ball
